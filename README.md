@@ -12,3 +12,5 @@ I included the Weather JSON on a file because the API key was not available in t
 
 
 On the secon playground I demostrate how to perform the internet query to get the same info.
+
+<img width="1015" alt="Screenshot 2022-12-08 at 14 13 36" src="https://user-images.githubusercontent.com/905975/206468780-fa877b11-2ab8-43bd-a49a-83b659bea89e.png">
